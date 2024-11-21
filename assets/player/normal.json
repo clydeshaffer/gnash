@@ -1,0 +1,1044 @@
+{ "frames": {
+   "NonShootingAnims - GameTank Colors 0.aseprite": {
+    "frame": { "x": 0, "y": 143, "w": 14, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 18, "w": 14, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 1.aseprite": {
+    "frame": { "x": 158, "y": 140, "w": 14, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 19, "w": 14, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 2.aseprite": {
+    "frame": { "x": 220, "y": 158, "w": 14, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 21, "w": 14, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 3.aseprite": {
+    "frame": { "x": 101, "y": 167, "w": 14, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 19, "w": 14, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 4.aseprite": {
+    "frame": { "x": 154, "y": 166, "w": 14, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 18, "w": 14, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 5.aseprite": {
+    "frame": { "x": 206, "y": 158, "w": 14, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 19, "w": 14, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 6.aseprite": {
+    "frame": { "x": 66, "y": 166, "w": 14, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 21, "w": 14, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 7.aseprite": {
+    "frame": { "x": 172, "y": 157, "w": 14, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 19, "w": 14, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 8.aseprite": {
+    "frame": { "x": 160, "y": 25, "w": 21, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 21, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 9.aseprite": {
+    "frame": { "x": 16, "y": 136, "w": 18, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 21, "w": 18, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 10.aseprite": {
+    "frame": { "x": 104, "y": 147, "w": 18, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 22, "w": 18, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 11.aseprite": {
+    "frame": { "x": 172, "y": 137, "w": 19, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 19, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 12.aseprite": {
+    "frame": { "x": 223, "y": 26, "w": 20, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 20, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 13.aseprite": {
+    "frame": { "x": 16, "y": 114, "w": 18, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 21, "w": 18, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 14.aseprite": {
+    "frame": { "x": 217, "y": 115, "w": 18, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 22, "w": 18, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 15.aseprite": {
+    "frame": { "x": 136, "y": 113, "w": 19, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 19, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 16.aseprite": {
+    "frame": { "x": 16, "y": 184, "w": 16, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 21, "w": 16, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 17.aseprite": {
+    "frame": { "x": 80, "y": 182, "w": 16, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 22, "w": 16, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 18.aseprite": {
+    "frame": { "x": 0, "y": 179, "w": 16, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 23, "w": 16, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 19.aseprite": {
+    "frame": { "x": 232, "y": 183, "w": 16, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 21, "w": 16, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 20.aseprite": {
+    "frame": { "x": 86, "y": 138, "w": 18, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 21, "w": 18, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 21.aseprite": {
+    "frame": { "x": 115, "y": 175, "w": 16, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 22, "w": 16, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 22.aseprite": {
+    "frame": { "x": 186, "y": 168, "w": 16, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 23, "w": 16, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 23.aseprite": {
+    "frame": { "x": 14, "y": 157, "w": 16, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 21, "w": 16, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 24.aseprite": {
+    "frame": { "x": 86, "y": 159, "w": 15, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 15, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 25.aseprite": {
+    "frame": { "x": 51, "y": 161, "w": 15, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 21, "w": 15, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 26.aseprite": {
+    "frame": { "x": 202, "y": 183, "w": 15, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 22, "w": 15, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 27.aseprite": {
+    "frame": { "x": 168, "y": 182, "w": 15, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 21, "w": 15, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 28.aseprite": {
+    "frame": { "x": 234, "y": 160, "w": 15, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 15, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 29.aseprite": {
+    "frame": { "x": 191, "y": 144, "w": 15, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 15, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 30.aseprite": {
+    "frame": { "x": 217, "y": 183, "w": 15, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 22, "w": 15, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 31.aseprite": {
+    "frame": { "x": 139, "y": 162, "w": 15, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 15, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 32.aseprite": {
+    "frame": { "x": 117, "y": 46, "w": 22, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 21, "w": 22, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 33.aseprite": {
+    "frame": { "x": 181, "y": 25, "w": 21, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 22, "w": 21, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 34.aseprite": {
+    "frame": { "x": 202, "y": 25, "w": 21, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 23, "w": 21, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 35.aseprite": {
+    "frame": { "x": 160, "y": 46, "w": 22, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 21, "w": 22, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 36.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 24, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 21, "w": 24, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 37.aseprite": {
+    "frame": { "x": 18, "y": 26, "w": 21, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 22, "w": 21, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 38.aseprite": {
+    "frame": { "x": 39, "y": 26, "w": 21, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 23, "w": 21, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 39.aseprite": {
+    "frame": { "x": 103, "y": 0, "w": 21, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 21, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 40.aseprite": {
+    "frame": { "x": 124, "y": 0, "w": 22, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 20, "w": 22, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 41.aseprite": {
+    "frame": { "x": 195, "y": 70, "w": 19, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 19, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 42.aseprite": {
+    "frame": { "x": 122, "y": 134, "w": 19, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 22, "w": 19, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 43.aseprite": {
+    "frame": { "x": 16, "y": 94, "w": 20, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 20, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 44.aseprite": {
+    "frame": { "x": 146, "y": 0, "w": 21, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 20, "w": 21, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 45.aseprite": {
+    "frame": { "x": 19, "y": 72, "w": 19, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 19, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 46.aseprite": {
+    "frame": { "x": 38, "y": 72, "w": 19, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 22, "w": 19, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 47.aseprite": {
+    "frame": { "x": 156, "y": 66, "w": 20, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 20, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 48.aseprite": {
+    "frame": { "x": 81, "y": 0, "w": 22, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 20, "w": 22, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 49.aseprite": {
+    "frame": { "x": 0, "y": 72, "w": 19, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 19, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 50.aseprite": {
+    "frame": { "x": 197, "y": 124, "w": 19, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 22, "w": 19, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 51.aseprite": {
+    "frame": { "x": 181, "y": 92, "w": 20, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 20, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 52.aseprite": {
+    "frame": { "x": 60, "y": 0, "w": 21, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 20, "w": 21, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 53.aseprite": {
+    "frame": { "x": 69, "y": 70, "w": 19, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 19, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 54.aseprite": {
+    "frame": { "x": 235, "y": 69, "w": 19, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 22, "w": 19, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 55.aseprite": {
+    "frame": { "x": 113, "y": 66, "w": 20, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 20, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 56.aseprite": {
+    "frame": { "x": 235, "y": 48, "w": 20, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 20, "w": 20, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 57.aseprite": {
+    "frame": { "x": 122, "y": 154, "w": 17, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 21, "w": 17, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 58.aseprite": {
+    "frame": { "x": 30, "y": 164, "w": 17, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 22, "w": 17, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 59.aseprite": {
+    "frame": { "x": 68, "y": 146, "w": 18, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 20, "w": 18, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 60.aseprite": {
+    "frame": { "x": 176, "y": 70, "w": 19, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 20, "w": 19, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 61.aseprite": {
+    "frame": { "x": 51, "y": 139, "w": 17, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 21, "w": 17, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 62.aseprite": {
+    "frame": { "x": 141, "y": 140, "w": 17, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 22, "w": 17, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 63.aseprite": {
+    "frame": { "x": 216, "y": 137, "w": 18, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 20, "w": 18, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "NonShootingAnims - GameTank Colors 64.aseprite": {
+    "frame": { "x": 149, "y": 87, "w": 16, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 17, "w": 16, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 65.aseprite": {
+    "frame": { "x": 0, "y": 94, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 18, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 66.aseprite": {
+    "frame": { "x": 74, "y": 98, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 18, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 67.aseprite": {
+    "frame": { "x": 88, "y": 72, "w": 16, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 17, "w": 16, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 68.aseprite": {
+    "frame": { "x": 104, "y": 87, "w": 16, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 17, "w": 16, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 69.aseprite": {
+    "frame": { "x": 36, "y": 94, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 18, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 70.aseprite": {
+    "frame": { "x": 74, "y": 98, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 18, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 71.aseprite": {
+    "frame": { "x": 133, "y": 72, "w": 16, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 17, "w": 16, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 72.aseprite": {
+    "frame": { "x": 120, "y": 98, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 73.aseprite": {
+    "frame": { "x": 0, "y": 119, "w": 16, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 20, "w": 16, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 74.aseprite": {
+    "frame": { "x": 201, "y": 99, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 75.aseprite": {
+    "frame": { "x": 214, "y": 73, "w": 16, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 18, "w": 16, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 76.aseprite": {
+    "frame": { "x": 181, "y": 112, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 77.aseprite": {
+    "frame": { "x": 106, "y": 123, "w": 16, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 20, "w": 16, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 78.aseprite": {
+    "frame": { "x": 90, "y": 113, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 79.aseprite": {
+    "frame": { "x": 165, "y": 92, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 80.aseprite": {
+    "frame": { "x": 142, "y": 22, "w": 18, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 18, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 81.aseprite": {
+    "frame": { "x": 200, "y": 46, "w": 18, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 20, "w": 18, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 82.aseprite": {
+    "frame": { "x": 99, "y": 22, "w": 18, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 18, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 83.aseprite": {
+    "frame": { "x": 24, "y": 0, "w": 18, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 18, "w": 18, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 84.aseprite": {
+    "frame": { "x": 185, "y": 0, "w": 18, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 18, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 85.aseprite": {
+    "frame": { "x": 78, "y": 46, "w": 18, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 20, "w": 18, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 86.aseprite": {
+    "frame": { "x": 203, "y": 0, "w": 18, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 18, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 87.aseprite": {
+    "frame": { "x": 221, "y": 0, "w": 18, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 18, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 88.aseprite": {
+    "frame": { "x": 69, "y": 123, "w": 17, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 17, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 89.aseprite": {
+    "frame": { "x": 34, "y": 142, "w": 17, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 21, "w": 17, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 90.aseprite": {
+    "frame": { "x": 34, "y": 119, "w": 17, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 17, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 91.aseprite": {
+    "frame": { "x": 57, "y": 92, "w": 17, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 17, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 92.aseprite": {
+    "frame": { "x": 155, "y": 117, "w": 17, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 17, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 93.aseprite": {
+    "frame": { "x": 234, "y": 138, "w": 17, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 21, "w": 17, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 94.aseprite": {
+    "frame": { "x": 52, "y": 116, "w": 17, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 17, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 95.aseprite": {
+    "frame": { "x": 235, "y": 115, "w": 17, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 17, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 96.aseprite": {
+    "frame": { "x": 81, "y": 21, "w": 18, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 19, "w": 18, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 97.aseprite": {
+    "frame": { "x": 0, "y": 46, "w": 18, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 18, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 98.aseprite": {
+    "frame": { "x": 167, "y": 0, "w": 18, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 19, "w": 18, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 99.aseprite": {
+    "frame": { "x": 42, "y": 0, "w": 18, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 18, "w": 18, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 100.aseprite": {
+    "frame": { "x": 60, "y": 22, "w": 18, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 19, "w": 18, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 101.aseprite": {
+    "frame": { "x": 182, "y": 46, "w": 18, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 18, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 102.aseprite": {
+    "frame": { "x": 124, "y": 21, "w": 18, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 19, "w": 18, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 103.aseprite": {
+    "frame": { "x": 0, "y": 21, "w": 18, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 19, "w": 18, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 104.aseprite": {
+    "frame": { "x": 96, "y": 47, "w": 17, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 19, "w": 17, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 105.aseprite": {
+    "frame": { "x": 52, "y": 47, "w": 17, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 19, "w": 17, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 106.aseprite": {
+    "frame": { "x": 35, "y": 47, "w": 17, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 19, "w": 17, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 107.aseprite": {
+    "frame": { "x": 239, "y": 0, "w": 17, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 18, "w": 17, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 108.aseprite": {
+    "frame": { "x": 18, "y": 47, "w": 17, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 19, "w": 17, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 109.aseprite": {
+    "frame": { "x": 230, "y": 91, "w": 17, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 17, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 110.aseprite": {
+    "frame": { "x": 139, "y": 47, "w": 17, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 19, "w": 17, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 111.aseprite": {
+    "frame": { "x": 218, "y": 48, "w": 17, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 19, "w": 17, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 112.aseprite": {
+    "frame": { "x": 96, "y": 47, "w": 17, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 19, "w": 17, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 113.aseprite": {
+    "frame": { "x": 52, "y": 47, "w": 17, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 19, "w": 17, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 114.aseprite": {
+    "frame": { "x": 35, "y": 47, "w": 17, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 19, "w": 17, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 115.aseprite": {
+    "frame": { "x": 239, "y": 0, "w": 17, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 18, "w": 17, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 116.aseprite": {
+    "frame": { "x": 18, "y": 47, "w": 17, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 19, "w": 17, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 117.aseprite": {
+    "frame": { "x": 230, "y": 91, "w": 17, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 17, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 118.aseprite": {
+    "frame": { "x": 139, "y": 47, "w": 17, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 19, "w": 17, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 119.aseprite": {
+    "frame": { "x": 218, "y": 48, "w": 17, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 19, "w": 17, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 120.aseprite": {
+    "frame": { "x": 120, "y": 98, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 121.aseprite": {
+    "frame": { "x": 0, "y": 119, "w": 16, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 20, "w": 16, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 122.aseprite": {
+    "frame": { "x": 201, "y": 99, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 123.aseprite": {
+    "frame": { "x": 214, "y": 73, "w": 16, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 18, "w": 16, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 124.aseprite": {
+    "frame": { "x": 181, "y": 112, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 125.aseprite": {
+    "frame": { "x": 106, "y": 123, "w": 16, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 20, "w": 16, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 126.aseprite": {
+    "frame": { "x": 90, "y": 113, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   },
+   "NonShootingAnims - GameTank Colors 127.aseprite": {
+    "frame": { "x": 165, "y": 92, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 19, "w": 16, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 128
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.10-x64",
+  "image": "normal.bmp",
+  "format": "I8",
+  "size": { "w": 256, "h": 205 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Run", "from": 0, "to": 63, "direction": "forward", "color": "#000000ff" },
+   { "name": "Idle", "from": 64, "to": 127, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

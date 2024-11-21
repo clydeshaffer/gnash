@@ -1,0 +1,1044 @@
+{ "frames": {
+   "ShootingAnims - GameTank Colors 0.aseprite": {
+    "frame": { "x": 242, "y": 22, "w": 14, "h": 33 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 18, "w": 14, "h": 33 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 1.aseprite": {
+    "frame": { "x": 39, "y": 138, "w": 14, "h": 27 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 19, "w": 14, "h": 27 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 2.aseprite": {
+    "frame": { "x": 241, "y": 87, "w": 14, "h": 32 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 21, "w": 14, "h": 32 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 3.aseprite": {
+    "frame": { "x": 53, "y": 154, "w": 14, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 19, "w": 14, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 4.aseprite": {
+    "frame": { "x": 175, "y": 109, "w": 14, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 18, "w": 14, "h": 31 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 5.aseprite": {
+    "frame": { "x": 175, "y": 140, "w": 14, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 19, "w": 14, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 6.aseprite": {
+    "frame": { "x": 111, "y": 111, "w": 14, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 21, "w": 14, "h": 31 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 7.aseprite": {
+    "frame": { "x": 125, "y": 141, "w": 14, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 19, "w": 14, "h": 26 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 8.aseprite": {
+    "frame": { "x": 48, "y": 46, "w": 25, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 20, "w": 25, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 9.aseprite": {
+    "frame": { "x": 189, "y": 137, "w": 19, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 21, "w": 19, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 10.aseprite": {
+    "frame": { "x": 23, "y": 92, "w": 22, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 22, "w": 22, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 11.aseprite": {
+    "frame": { "x": 60, "y": 134, "w": 20, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 20, "w": 20, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 12.aseprite": {
+    "frame": { "x": 96, "y": 24, "w": 24, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 20, "w": 24, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 13.aseprite": {
+    "frame": { "x": 236, "y": 119, "w": 19, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 21, "w": 19, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 14.aseprite": {
+    "frame": { "x": 142, "y": 65, "w": 22, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 22, "w": 22, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 15.aseprite": {
+    "frame": { "x": 87, "y": 112, "w": 20, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 20, "w": 20, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 16.aseprite": {
+    "frame": { "x": 81, "y": 133, "w": 20, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 21, "w": 20, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 17.aseprite": {
+    "frame": { "x": 80, "y": 153, "w": 17, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 22, "w": 17, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 18.aseprite": {
+    "frame": { "x": 91, "y": 90, "w": 20, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 22, "w": 20, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 19.aseprite": {
+    "frame": { "x": 15, "y": 157, "w": 17, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 21, "w": 17, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 20.aseprite": {
+    "frame": { "x": 182, "y": 64, "w": 22, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 20, "w": 22, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 21.aseprite": {
+    "frame": { "x": 101, "y": 142, "w": 17, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 22, "w": 17, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 22.aseprite": {
+    "frame": { "x": 155, "y": 95, "w": 20, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 22, "w": 20, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 23.aseprite": {
+    "frame": { "x": 208, "y": 139, "w": 17, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 21, "w": 17, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 24.aseprite": {
+    "frame": { "x": 226, "y": 87, "w": 15, "h": 30 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 13, "w": 15, "h": 30 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 25.aseprite": {
+    "frame": { "x": 225, "y": 141, "w": 15, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 15, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 26.aseprite": {
+    "frame": { "x": 45, "y": 109, "w": 15, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 15, "w": 15, "h": 29 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 27.aseprite": {
+    "frame": { "x": 0, "y": 156, "w": 15, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 15, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 28.aseprite": {
+    "frame": { "x": 140, "y": 87, "w": 15, "h": 30 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 13, "w": 15, "h": 30 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 29.aseprite": {
+    "frame": { "x": 139, "y": 138, "w": 15, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 19, "w": 15, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 30.aseprite": {
+    "frame": { "x": 202, "y": 108, "w": 15, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 15, "w": 15, "h": 29 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 31.aseprite": {
+    "frame": { "x": 154, "y": 141, "w": 15, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 19, "w": 15, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 32.aseprite": {
+    "frame": { "x": 0, "y": 47, "w": 26, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 21, "w": 26, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 33.aseprite": {
+    "frame": { "x": 69, "y": 71, "w": 22, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 22, "w": 22, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 34.aseprite": {
+    "frame": { "x": 166, "y": 43, "w": 25, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 23, "w": 25, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 35.aseprite": {
+    "frame": { "x": 0, "y": 87, "w": 23, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 21, "w": 23, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 36.aseprite": {
+    "frame": { "x": 195, "y": 0, "w": 28, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 21, "w": 28, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 37.aseprite": {
+    "frame": { "x": 47, "y": 67, "w": 22, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 22, "w": 22, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 38.aseprite": {
+    "frame": { "x": 191, "y": 43, "w": 25, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 23, "w": 25, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 39.aseprite": {
+    "frame": { "x": 204, "y": 66, "w": 22, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 22, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 40.aseprite": {
+    "frame": { "x": 223, "y": 0, "w": 26, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 20, "w": 26, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 41.aseprite": {
+    "frame": { "x": 67, "y": 92, "w": 20, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 20, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 42.aseprite": {
+    "frame": { "x": 226, "y": 66, "w": 23, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 22, "w": 23, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 43.aseprite": {
+    "frame": { "x": 60, "y": 114, "w": 21, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 21, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 44.aseprite": {
+    "frame": { "x": 48, "y": 24, "w": 25, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 20, "w": 25, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 45.aseprite": {
+    "frame": { "x": 115, "y": 89, "w": 20, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 20, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 46.aseprite": {
+    "frame": { "x": 96, "y": 46, "w": 23, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 22, "w": 23, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 47.aseprite": {
+    "frame": { "x": 46, "y": 88, "w": 21, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 21, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 48.aseprite": {
+    "frame": { "x": 166, "y": 0, "w": 29, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 20, "w": 29, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 49.aseprite": {
+    "frame": { "x": 119, "y": 67, "w": 21, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 21, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 50.aseprite": {
+    "frame": { "x": 216, "y": 46, "w": 26, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 22, "w": 26, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 51.aseprite": {
+    "frame": { "x": 202, "y": 88, "w": 22, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 22, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 52.aseprite": {
+    "frame": { "x": 138, "y": 0, "w": 28, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 20, "w": 28, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 53.aseprite": {
+    "frame": { "x": 94, "y": 68, "w": 21, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 21, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 54.aseprite": {
+    "frame": { "x": 192, "y": 21, "w": 26, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 22, "w": 26, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 55.aseprite": {
+    "frame": { "x": 24, "y": 71, "w": 22, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 22, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 56.aseprite": {
+    "frame": { "x": 138, "y": 22, "w": 27, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 20, "w": 27, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 57.aseprite": {
+    "frame": { "x": 20, "y": 136, "w": 19, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 21, "w": 19, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 58.aseprite": {
+    "frame": { "x": 0, "y": 67, "w": 24, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 22, "w": 24, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 59.aseprite": {
+    "frame": { "x": 0, "y": 136, "w": 20, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 20, "w": 20, "h": 20 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 60.aseprite": {
+    "frame": { "x": 166, "y": 21, "w": 26, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 20, "w": 26, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 61.aseprite": {
+    "frame": { "x": 217, "y": 117, "w": 19, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 21, "w": 19, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 62.aseprite": {
+    "frame": { "x": 142, "y": 43, "w": 24, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 22, "w": 24, "h": 22 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 63.aseprite": {
+    "frame": { "x": 139, "y": 117, "w": 20, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 20, "w": 20, "h": 21 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 96
+   },
+   "ShootingAnims - GameTank Colors 64.aseprite": {
+    "frame": { "x": 125, "y": 111, "w": 14, "h": 30 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 19, "w": 14, "h": 30 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 65.aseprite": {
+    "frame": { "x": 240, "y": 141, "w": 14, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 18, "w": 14, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 66.aseprite": {
+    "frame": { "x": 125, "y": 111, "w": 14, "h": 30 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 19, "w": 14, "h": 30 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 67.aseprite": {
+    "frame": { "x": 240, "y": 141, "w": 14, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 18, "w": 14, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 68.aseprite": {
+    "frame": { "x": 125, "y": 111, "w": 14, "h": 30 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 19, "w": 14, "h": 30 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 69.aseprite": {
+    "frame": { "x": 240, "y": 141, "w": 14, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 18, "w": 14, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 70.aseprite": {
+    "frame": { "x": 125, "y": 111, "w": 14, "h": 30 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 19, "w": 14, "h": 30 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 71.aseprite": {
+    "frame": { "x": 240, "y": 141, "w": 14, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 18, "w": 14, "h": 25 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 72.aseprite": {
+    "frame": { "x": 24, "y": 24, "w": 24, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 21, "w": 24, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 73.aseprite": {
+    "frame": { "x": 182, "y": 86, "w": 20, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 21, "w": 20, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 74.aseprite": {
+    "frame": { "x": 0, "y": 24, "w": 24, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 21, "w": 24, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 75.aseprite": {
+    "frame": { "x": 182, "y": 86, "w": 20, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 21, "w": 20, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 76.aseprite": {
+    "frame": { "x": 0, "y": 24, "w": 24, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 21, "w": 24, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 77.aseprite": {
+    "frame": { "x": 182, "y": 86, "w": 20, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 21, "w": 20, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 78.aseprite": {
+    "frame": { "x": 0, "y": 24, "w": 24, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 21, "w": 24, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 79.aseprite": {
+    "frame": { "x": 182, "y": 86, "w": 20, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 21, "w": 20, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 80.aseprite": {
+    "frame": { "x": 120, "y": 43, "w": 22, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 20, "w": 22, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 81.aseprite": {
+    "frame": { "x": 19, "y": 112, "w": 18, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 20, "w": 18, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 82.aseprite": {
+    "frame": { "x": 120, "y": 43, "w": 22, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 20, "w": 22, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 83.aseprite": {
+    "frame": { "x": 19, "y": 112, "w": 18, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 20, "w": 18, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 84.aseprite": {
+    "frame": { "x": 120, "y": 43, "w": 22, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 20, "w": 22, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 85.aseprite": {
+    "frame": { "x": 19, "y": 112, "w": 18, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 20, "w": 18, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 86.aseprite": {
+    "frame": { "x": 120, "y": 43, "w": 22, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 20, "w": 22, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 87.aseprite": {
+    "frame": { "x": 19, "y": 112, "w": 18, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 20, "w": 18, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 88.aseprite": {
+    "frame": { "x": 166, "y": 64, "w": 16, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 12, "w": 16, "h": 31 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 89.aseprite": {
+    "frame": { "x": 159, "y": 117, "w": 16, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 19, "w": 16, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 90.aseprite": {
+    "frame": { "x": 166, "y": 64, "w": 16, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 12, "w": 16, "h": 31 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 91.aseprite": {
+    "frame": { "x": 159, "y": 117, "w": 16, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 19, "w": 16, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 92.aseprite": {
+    "frame": { "x": 166, "y": 64, "w": 16, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 12, "w": 16, "h": 31 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 93.aseprite": {
+    "frame": { "x": 159, "y": 117, "w": 16, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 19, "w": 16, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 94.aseprite": {
+    "frame": { "x": 166, "y": 64, "w": 16, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 12, "w": 16, "h": 31 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 95.aseprite": {
+    "frame": { "x": 159, "y": 117, "w": 16, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 19, "w": 16, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 96.aseprite": {
+    "frame": { "x": 84, "y": 0, "w": 27, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 27, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 97.aseprite": {
+    "frame": { "x": 218, "y": 22, "w": 23, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 23, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 98.aseprite": {
+    "frame": { "x": 84, "y": 0, "w": 27, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 27, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 99.aseprite": {
+    "frame": { "x": 218, "y": 22, "w": 23, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 23, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 100.aseprite": {
+    "frame": { "x": 84, "y": 0, "w": 27, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 27, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 101.aseprite": {
+    "frame": { "x": 218, "y": 22, "w": 23, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 23, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 102.aseprite": {
+    "frame": { "x": 84, "y": 0, "w": 27, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 27, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 103.aseprite": {
+    "frame": { "x": 218, "y": 22, "w": 23, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 20, "w": 23, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 104.aseprite": {
+    "frame": { "x": 73, "y": 24, "w": 23, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 23, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 105.aseprite": {
+    "frame": { "x": 0, "y": 107, "w": 19, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 19, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 106.aseprite": {
+    "frame": { "x": 73, "y": 24, "w": 23, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 23, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 107.aseprite": {
+    "frame": { "x": 0, "y": 107, "w": 19, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 19, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 108.aseprite": {
+    "frame": { "x": 73, "y": 24, "w": 23, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 23, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 109.aseprite": {
+    "frame": { "x": 0, "y": 107, "w": 19, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 19, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 110.aseprite": {
+    "frame": { "x": 73, "y": 24, "w": 23, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 23, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 111.aseprite": {
+    "frame": { "x": 0, "y": 107, "w": 19, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 21, "w": 19, "h": 23 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 112.aseprite": {
+    "frame": { "x": 56, "y": 0, "w": 28, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 28, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 113.aseprite": {
+    "frame": { "x": 73, "y": 47, "w": 21, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 21, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 114.aseprite": {
+    "frame": { "x": 28, "y": 0, "w": 28, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 28, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 115.aseprite": {
+    "frame": { "x": 73, "y": 47, "w": 21, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 21, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 116.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 28, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 28, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 117.aseprite": {
+    "frame": { "x": 73, "y": 47, "w": 21, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 21, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 118.aseprite": {
+    "frame": { "x": 28, "y": 0, "w": 28, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 28, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 119.aseprite": {
+    "frame": { "x": 73, "y": 47, "w": 21, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 20, "w": 21, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 120.aseprite": {
+    "frame": { "x": 111, "y": 0, "w": 27, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 20, "w": 27, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 121.aseprite": {
+    "frame": { "x": 26, "y": 47, "w": 21, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 20, "w": 21, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 122.aseprite": {
+    "frame": { "x": 111, "y": 0, "w": 27, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 20, "w": 27, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 123.aseprite": {
+    "frame": { "x": 26, "y": 47, "w": 21, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 20, "w": 21, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 124.aseprite": {
+    "frame": { "x": 111, "y": 0, "w": 27, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 20, "w": 27, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 125.aseprite": {
+    "frame": { "x": 26, "y": 47, "w": 21, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 20, "w": 21, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 126.aseprite": {
+    "frame": { "x": 111, "y": 0, "w": 27, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 20, "w": 27, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   },
+   "ShootingAnims - GameTank Colors 127.aseprite": {
+    "frame": { "x": 26, "y": 47, "w": 21, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 20, "w": 21, "h": 24 },
+    "sourceSize": { "w": 48, "h": 64 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.10-x64",
+  "image": "shooting.bmp",
+  "format": "I8",
+  "size": { "w": 256, "h": 179 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "ShootRun", "from": 0, "to": 63, "direction": "forward", "color": "#000000ff" },
+   { "name": "Shoot", "from": 64, "to": 127, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

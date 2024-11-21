@@ -3,6 +3,9 @@
 #include "note_numbers.h"
 #include "banking.h"
 
+#include "../../gen/bank_nums.h"
+#include "../../gen/assets/assets_index.h"
+
 typedef struct music_state_t {
     unsigned char* cursor;
     unsigned char bank;
@@ -73,24 +76,32 @@ unsigned char paused_delay;
 unsigned char music_mode = REPEAT_NONE;
 
 unsigned char music_channel_mask;
-unsigned char* sound_effect_ptr;
-unsigned char sound_effect_bank;
-unsigned char sound_effect_channel;
-unsigned char sound_effect_length;
-unsigned char saved_feedback_value;
-unsigned char sound_effect_priority;
+unsigned char percussion_channel_mask;
+unsigned char* sound_effect_ptr[NUM_FM_CHANNELS];
+unsigned char sound_effect_bank[NUM_FM_CHANNELS];
+unsigned char sound_effect_length[NUM_FM_CHANNELS];
+unsigned char saved_feedback_value[NUM_FM_CHANNELS];
+unsigned char sound_effect_priority[NUM_FM_CHANNELS];
 
 void init_music() {
+    char i;
     music_stack_idx = 0;
     music_state.cursor = 0;
     music_state.delay = 0;
-    music_channel_mask = 0b11111111;
-    sound_effect_length = 0;
-    sound_effect_priority = 0;
+    music_channel_mask = 255;
+    for(i = 0; i < NUM_FM_CHANNELS; ++i) {
+        sound_effect_length[i] = 0;
+        sound_effect_priority[i] = 0;
+    }
     stop_music();
 }
 
 void load_instrument(char channel, Instrument* instr) {
+    if(instr == 0xFFFF) {
+        percussion_channel_mask |= channel_masks[channel];
+        return;
+    }
+    percussion_channel_mask &= ~channel_masks[channel];
     music_state.instruments[channel] = instr;
     channel_note_offset[channel] = instr->transpose;
     aram[FEEDBACK_AMT + channel] = instr->feedback + sine_offset;
@@ -143,6 +154,7 @@ void play_song(const unsigned char* song, char bank_num, char loop) {
     char n;
     push_song_stack();
     music_state.bank = bank_num;
+    push_rom_bank();
     change_rom_bank(music_state.bank);
     music_state.cursor = song;
 
@@ -168,6 +180,7 @@ void play_song(const unsigned char* song, char bank_num, char loop) {
     }
 
     if(music_state.cursor) {
+        percussion_channel_mask = 0;
         music_state.cfg = *(music_state.cursor++);
         load_instrument(0, get_instrument_ptr(*(music_state.cursor++)));
         load_instrument(1, get_instrument_ptr(*(music_state.cursor++)));
@@ -176,11 +189,6 @@ void play_song(const unsigned char* song, char bank_num, char loop) {
         music_state.delay = *(music_state.cursor++);
     }
 
-    if(sound_effect_length) {
-        music_channel_mask = ~(channel_masks[sound_effect_channel]);
-    } else {
-        music_channel_mask = 0xFF;
-    }
     pop_rom_bank();
 }
 
@@ -196,48 +204,49 @@ void unpause_music() {
 void tick_music() {
     static unsigned char n, noteMask, ch;
     register unsigned char a, op;
+    push_rom_bank();
+    for(n = 0; n < NUM_FM_CHANNELS; ++n) {
+        if(sound_effect_length[n]) {
+            --sound_effect_length[n];
+            if(sound_effect_length[n]) {
+                
+                change_rom_bank(sound_effect_bank[n]);
 
-     if(sound_effect_length) {
-        sound_effect_length--;
-        if(sound_effect_length) {
-            change_rom_bank(sound_effect_bank);
+                op = n << 2;
+                set_audio_param(AMPLITUDE + op, *(sound_effect_ptr[n]+0) + sine_offset);
+                a = *(sound_effect_ptr[n]+4) << 1;
+                set_audio_param(PITCH_MSB + op, pitch_table[a]);
+                set_audio_param(PITCH_LSB + op, pitch_table[a+1]);
 
-            op = sound_effect_channel << 2;
-            set_audio_param(AMPLITUDE + op, *(sound_effect_ptr+0) + sine_offset);
-            a = *(sound_effect_ptr+4) << 1;
-            set_audio_param(PITCH_MSB + op, pitch_table[a]);
-            set_audio_param(PITCH_LSB + op, pitch_table[a+1]);
+                ++op;
+                set_audio_param(AMPLITUDE + op, *(sound_effect_ptr[n]+1) + sine_offset);
+                a = *(sound_effect_ptr[n]+5) << 1;
+                set_audio_param(PITCH_MSB + op, pitch_table[a]);
+                set_audio_param(PITCH_LSB + op, pitch_table[a+1]);
 
-            ++op;
-            set_audio_param(AMPLITUDE + op, *(sound_effect_ptr+1) + sine_offset);
-            a = *(sound_effect_ptr+5) << 1;
-            set_audio_param(PITCH_MSB + op, pitch_table[a]);
-            set_audio_param(PITCH_LSB + op, pitch_table[a+1]);
+                ++op;
+                set_audio_param(AMPLITUDE + op, *(sound_effect_ptr[n]+2) + sine_offset);
+                a = *(sound_effect_ptr[n]+6) << 1;
+                set_audio_param(PITCH_MSB + op, pitch_table[a]);
+                set_audio_param(PITCH_LSB + op, pitch_table[a+1]);
 
-            ++op;
-            set_audio_param(AMPLITUDE + op, *(sound_effect_ptr+2) + sine_offset);
-            a = *(sound_effect_ptr+6) << 1;
-            set_audio_param(PITCH_MSB + op, pitch_table[a]);
-            set_audio_param(PITCH_LSB + op, pitch_table[a+1]);
+                ++op;
+                set_audio_param(AMPLITUDE + op, *(sound_effect_ptr[n]+3) + sine_offset);
+                a = *(sound_effect_ptr[n]+7) << 1;
+                set_audio_param(PITCH_MSB + op, pitch_table[a]);
+                set_audio_param(PITCH_LSB + op, pitch_table[a+1]);
 
-            ++op;
-            set_audio_param(AMPLITUDE + op, *(sound_effect_ptr+3) + sine_offset);
-            a = *(sound_effect_ptr+7) << 1;
-            set_audio_param(PITCH_MSB + op, pitch_table[a]);
-            set_audio_param(PITCH_LSB + op, pitch_table[a+1]);
+                sound_effect_ptr[n] += 8;
 
-            sound_effect_ptr += 8;
-
-            pop_rom_bank();
-        } else {
-            op = sound_effect_channel << 2;
-            set_audio_param(AMPLITUDE+(op+3), sine_offset);
-            aram[FEEDBACK_AMT + sound_effect_channel] = saved_feedback_value;
-            music_channel_mask = 0xFF;
-            sound_effect_priority = 0;
+            } else {
+                op = n << 2;
+                set_audio_param(AMPLITUDE+(op+3), sine_offset);
+                aram[FEEDBACK_AMT + n] = saved_feedback_value;
+                music_channel_mask |= channel_masks[n];
+                sound_effect_priority[n] = 0;
+            }
         }
     }
-
 
     change_rom_bank(music_state.bank);
     op = 0;
@@ -268,7 +277,9 @@ void tick_music() {
                     n = *(music_state.cursor++);
                     if(music_state.cfg & MUSIC_CFG_VELOCITY)
                         a = *(music_state.cursor++);
-                    if(channel_masks[ch] & music_channel_mask) {
+                    if(channel_masks[ch] & percussion_channel_mask) {
+                        if(n > 0) play_sound_effect(n - 1, ch);
+                    } else if(channel_masks[ch] & music_channel_mask) {
                         op = ch << 2;
                         if(n > 0) {
                             set_note(op, n + channel_note_offset[ch]);
@@ -328,7 +339,6 @@ void tick_music() {
 
 void silence_all_channels() {
     char n;
-    music_channel_mask = 0;
     for(n = 0; n < NUM_FM_OPS; ++n) {
         audio_amplitudes[n] = 0;
         set_audio_param(AMPLITUDE+n, sine_offset);
@@ -340,16 +350,20 @@ void stop_music() {
     silence_all_channels();
 }
 
-void play_sound_effect(char* sfx_ptr, char sfx_bank, char priority) {
-    if(priority < sound_effect_priority) return;
-    sound_effect_priority = priority;
-    sound_effect_bank = sfx_bank;
-    sound_effect_ptr = sfx_ptr;
-    sound_effect_channel = 2;
-    change_rom_bank(sound_effect_bank);
-    sound_effect_length = *(sound_effect_ptr++) + 1;
-    saved_feedback_value = aram[FEEDBACK_AMT + sound_effect_channel];
-    aram[FEEDBACK_AMT + sound_effect_channel] = *(sound_effect_ptr++);
-    music_channel_mask &= ~(channel_masks[sound_effect_channel]);
+void play_sound_effect(char sfx_id, char channel) { 
+    static char priority;
+    priority = channel & 0xF0;
+    channel &= 0x03;
+    if(priority < sound_effect_priority[channel]) return;
+    sound_effect_priority[channel] = priority;
+    push_rom_bank();
+    change_rom_bank(BANK_LOADERS);
+    sound_effect_bank[channel] = ASSET__sfx_bank_table[sfx_id];
+    sound_effect_ptr[channel] = ASSET__sfx_ptr_table[sfx_id];
+    change_rom_bank(sound_effect_bank[channel]);
+    sound_effect_length[channel] = *(sound_effect_ptr[channel]++) + 1;
+    saved_feedback_value[channel] = aram[FEEDBACK_AMT + channel];
+    aram[FEEDBACK_AMT + channel] = *(sound_effect_ptr[channel]++);
+    music_channel_mask &= ~(channel_masks[channel]);
     pop_rom_bank();
 }

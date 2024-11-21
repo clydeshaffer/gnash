@@ -1,12 +1,14 @@
 #ifndef MUSIC_H
 #define MUSIC_H
 
-#include "dynawave.h"
+#include "audio_coprocessor.h"
 #include "instruments.h"
 
 #define REPEAT_NONE 0
 #define REPEAT_LOOP 1
 #define REPEAT_RESUME 2
+
+#define SFX_PRIORITY(x) (x<<4)
 
 void init_music();
 
@@ -28,6 +30,6 @@ extern unsigned char audio_amplitudes[NUM_FM_OPS];
 
 void load_instrument(char channel, Instrument* instr);
 
-void play_sound_effect(char* sfx_ptr, char sfx_bank, char priority);
+void play_sound_effect(char sfx_id, char channel);
 
 #endif
