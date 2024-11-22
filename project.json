@@ -1,6 +1,6 @@
 {
-    "title" : "My GameTank Game",
-    "romname" : "game.gtr",
+    "title" : "They Gnash In Darkness",
+    "romname" : "gnash.gtr",
     "progbanks" : 1,
     "modules" : [
         "PERSIST",
