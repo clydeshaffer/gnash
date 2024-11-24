@@ -23,8 +23,9 @@ int main () {
     while (1) {                                     //  Run forever
         
         draw_tile_map();
+        draw_zombies_upper();
         draw_player();
-        draw_zombies();
+        draw_zombies_lower();
         queue_clear_border(0);
         
         update_player();

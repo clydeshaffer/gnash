@@ -19,10 +19,12 @@ char zombies_frame[MAX_ZOMBIES];
 char zombies_subframe[MAX_ZOMBIES];
 char zombies_flip[MAX_ZOMBIES];
 
-const signed char zombie_target_offset_x[MAX_ZOMBIES] = {0, 16, 255-16, 16};
-const signed char zombie_target_offset_y[MAX_ZOMBIES] = {0, 16, 255-16, 255-16};
+char zombies_update_order[MAX_ZOMBIES];
 
-static char zi;
+const signed char zombie_target_offset_x[MAX_ZOMBIES] = {0, 16, 255-16, 16};
+const signed char zombie_target_offset_y[MAX_ZOMBIES] = {2, 16, 255-16, 255-16};
+
+static char zi, ziu;
 
 SpriteSlot zombie_sprite;
 
@@ -36,13 +38,12 @@ void init_zombies() {
         zombies_frame[zi] = ZOMBIE_TAG_RUN_START;
         zombies_subframe[zi] = zi;
         zombies_flip[zi] = 0;
+        zombies_update_order[zi] = zi;
     }
 }
 
 void update_zombies() {
     for(zi = 0; zi < MAX_ZOMBIES; ++zi) {
-        
-
         if(++zombies_subframe[zi] == ZOMBIES_SUBFRAME_RATE) {
             zombies_subframe[zi] = 0;
             if(++zombies_frame[zi] == ZOMBIE_TAG_RUN_END) {
@@ -65,10 +66,31 @@ void update_zombies() {
             }
         }
     }
+
+    for(ziu = 0; ziu < MAX_ZOMBIES-1; ++ziu) {
+        if(zombies_y[zombies_update_order[ziu]] > zombies_y[zombies_update_order[ziu+1]]) {
+            zi = zombies_update_order[ziu];
+            zombies_update_order[ziu] = zombies_update_order[ziu+1];
+            zombies_update_order[ziu+1] = zi;
+        }
+    }
 }
 
-void draw_zombies() {
-    for(zi = 0; zi < MAX_ZOMBIES; ++zi) {
+void draw_zombies_upper() {
+    for(ziu = 0; ziu < MAX_ZOMBIES; ++ziu) {
+        zi = zombies_update_order[ziu];
+        if(zombies_y[zi] > player_y) {
+            return;
+        }
+        if(zombies_flags[zi] & ZOMBIE_FLAG_EXISTS) {
+            queue_draw_sprite_frame(zombie_sprite, zombies_x[zi], zombies_y[zi], zombies_frame[zi], zombies_flip[zi]);
+        }
+    }
+}
+
+void draw_zombies_lower() {
+    for(; ziu < MAX_ZOMBIES; ++ziu) {
+        zi = zombies_update_order[ziu];
         if(zombies_flags[zi] & ZOMBIE_FLAG_EXISTS) {
             queue_draw_sprite_frame(zombie_sprite, zombies_x[zi], zombies_y[zi], zombies_frame[zi], zombies_flip[zi]);
         }
